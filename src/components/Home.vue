@@ -1,5 +1,11 @@
 <template>
-  <div></div>
+  <div>
+    <b-container>
+    <b-row class="justify-content-center">
+    See my services here
+    </b-row>
+    </b-container>
+  </div>
 </template>
 
 <script>

@@ -1,6 +1,7 @@
 import Vue from 'vue';
 import Router from 'vue-router';
 import Home from '@/components/Home';
+import Contact from '@/components/Contact';
 
 Vue.use(Router);
 
@@ -13,6 +14,11 @@ export default new Router({
       path: '/',
       name: 'Home',
       component: Home
+    },
+    {
+      path: '/Contact',
+      name: 'Contact',
+      component: Contact
     },
     // We could use a 404 error page, but it may be better to just send them straight back to home.
     // {

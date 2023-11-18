@@ -17,8 +17,8 @@ export default {
   padding: 15px 0px 0px 0px;
 }
 
-footer {
+/* footer {
   background: var(--light);
   color: var(--dark);
-}
+} */
 </style>
