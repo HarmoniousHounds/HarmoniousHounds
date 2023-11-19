@@ -17,8 +17,7 @@
                   <br />
                   <br />
                   I am a qualified dog trainer, having completed Certificate IV in Companion Animal
-                  Services. My specialties include conformation and obedience, agility, retrieval
-                  and scent work.
+                  Services. I have trained multiple dogs in obedience, agility, scentwork and retrieval.
                   <br />
                   <br />
                   Dogs do not speak the same language as we do, so if we are to communicate effectively with them, it is
