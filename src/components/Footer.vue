@@ -1,6 +1,6 @@
 <template>
   <footer class="footer">
-    <p class="text-center">Copyright &copy; 2024, Lyn Pearce. All Rights Reserved.</p>
+    <p class="text-center">Copyright &copy; 2023, Lyn Pearce. All Rights Reserved.</p>
   </footer>
 </template>
 <script>

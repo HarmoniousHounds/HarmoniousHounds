@@ -12,21 +12,20 @@
             <b-col md="7">
               <b-card-body>
                 <b-card-text>
-                  Hi, my name is Lyn, and my passion is dogs.
-                  I have always had a special interest in animals, and have been involved in training my
-                  own dogs for many years. My specialties include conformation and obedience, agility, retrieval
-                  and scent work.
+                  Hi, my name is Lyn, and my passion is dogs. I have always had a special interest in animals, and have been involved in training my
+                  own dogs for many years. 
                   <br />
                   <br />
                   I am a qualified dog trainer, having completed Certificate IV in Companion Animal
-                  Services. Dogs learn best with positive reinforcement and force free training. Trust and
+                  Services. My specialties include conformation and obedience, agility, retrieval
+                  and scent work.
+                  <br />
+                  <br />
+                  Dogs do not speak the same language as we do, so if we are to communicate effectively with them, it is
+                  essential that we form a relationship built on trust.
+                  Dogs learn best with positive reinforcement and force free training. Trust and
                   respect are essential for any living being to learn effectively.
-                  <br />
-                  <br />
-                  Dogs do not speak the
-                  same language as we do, so if we are to communicate effectively with them, it is
-                  essential that we form a relationship built on trust. I do not use training methods
-                  which make use of punishment or intimidation.
+                  I do not use training methods which make use of punishment or intimidation.
                 </b-card-text>
               </b-card-body>
             </b-col>

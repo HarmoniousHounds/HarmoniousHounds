@@ -5,8 +5,8 @@
   <b-navbar variant="white" fixed="top">
     <b-container>
       <b-navbar-nav style="margin-right: 0%;">
-        <b-nav-item :to="{ name: 'Home' }">Home</b-nav-item>
-        <b-nav-item :to="{ name: 'Contact' }">Contact</b-nav-item>
+        <b-nav-item :to="{ name: 'Home' }"><H4>Home</H4></b-nav-item>
+        <b-nav-item :to="{ name: 'Contact' }"><H4>Contact</H4></b-nav-item>
       </b-navbar-nav>
       <b-navbar-brand :to="{ name: 'Home' }" @click="IconClicked()"><img src="../assets/HHLogo.png" width="100rem"></b-navbar-brand>
     </b-container>
